@@ -1,0 +1,5 @@
+#38141 closeb
+{  
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
